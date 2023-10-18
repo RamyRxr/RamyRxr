@@ -1,6 +1,6 @@
-- what's up man i'm @Ramyrxr 
-- 👀 I’m interested in Software Engineer
-- ⚡ I’m currently learning Java and javaScript
+- what's up everyone, my name is @Ramy and I am a future software engineer. Right now, I'm learning Java and I'm good with HTML and CSS.
+- 👀 I’m interested in Software Engineer.
+- ⚡ I’m currently learning Java and javaScript.
 
 
 <!---
