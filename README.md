@@ -1,22 +1,26 @@
-<h1 align="center">Hi, I'm Ramy Abdeldjalil Foul</h1>
+<h1 align="center">Ramy Abdeldjalil Foul</h1>
 
 <p align="center">
-	Frontend-focused Full-Stack Developer from India<br />
-	I enjoy building clean, responsive, and user-first web experiences.
+	<a href="https://github.com/RamyRxr">
+		<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3600&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&lines=Frontend-Focused+Full-Stack+Developer;Building+clean+and+performant+web+experiences" alt="Typing intro" />
+	</a>
 </p>
 
 <p align="center">
-	<a href="https://komarev.com/ghpvc/?username=ramyrxr&label=Profile%20Views&color=0e75b6&style=flat">
-		<img src="https://komarev.com/ghpvc/?username=ramyrxr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+	<a href="https://github.com/RamyRxr" target="_blank">
+		<img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 	</a>
-	<a href="https://github.com/RamyRxr">
-		<img src="https://img.shields.io/badge/GitHub-RamyRxr-181717?style=flat&logo=github" alt="GitHub" />
+	<a href="https://www.linkedin.com/in/ramy-abdeldjalil-foul-1aa14b296/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=0EA5E9" alt="LinkedIn" />
 	</a>
-	<a href="https://www.linkedin.com/in/ramy-abdeldjalil-foul-1aa14b296/">
-		<img src="https://img.shields.io/badge/LinkedIn-Ramy%20Abdeldjalil%20Foul-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
+	<a href="mailto:reyr06115@gmail.com" target="_blank">
+		<img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
 	</a>
-	<a href="mailto:reyr06115@gmail.com">
-		<img src="https://img.shields.io/badge/Email-reyr06115%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+</p>
+
+<p align="center">
+	<a href="https://komarev.com/ghpvc/?username=ramyrxr&label=Profile%20Views&color=38BDF8&style=flat" target="_blank">
+		<img src="https://komarev.com/ghpvc/?username=ramyrxr&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile views" />
 	</a>
 </p>
 
@@ -31,31 +35,21 @@
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,tailwind,bootstrap,nextjs&theme=dark&perline=10" alt="Frontend stack" />
+</p>
 
 ### Backend and Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,nestjs,php,mysql,postgres&theme=dark&perline=7" alt="Backend and database stack" />
+</p>
 
 ### Tools and Design
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=git,github,figma,ps,ai,vscode,postman&theme=dark&perline=7" alt="Tools and design stack" />
+</p>
 
 ## Current Focus
 
@@ -63,11 +57,13 @@
 - Improving backend structure and API workflows with Laravel.
 - Creating projects that are simple, practical, and user-centered.
 
-## Connect With Me
+## Activity Graph
 
-- GitHub: [github.com/RamyRxr](https://github.com/RamyRxr)
-- LinkedIn: [linkedin.com/in/ramy-abdeldjalil-foul-1aa14b296](https://www.linkedin.com/in/ramy-abdeldjalil-foul-1aa14b296/)
-- Email: [reyr06115@gmail.com](mailto:reyr06115@gmail.com)
+<p align="center">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramyrxr&custom_title=Ramy's%20Contribution%20Graph&bg_color=0B1120&color=E2E8F0&line=38BDF8&point=7DD3FC&area=true&area_color=38BDF8&title_color=E2E8F0&hide_border=true" alt="Activity graph" width="100%" />
+</p>
+
+
 
 ## GitHub Stats
 
@@ -79,3 +75,7 @@
 <p align="center">
 	<img src="https://streak-stats.demolab.com?user=ramyrxr&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
+
+
+
+
