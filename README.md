@@ -76,6 +76,23 @@
 	<img src="https://streak-stats.demolab.com?user=ramyrxr&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
+## Last 12 Months Contributions
+
+<p align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramyrxr&theme=github_dark" alt="Contribution timeline" width="100%" />
+</p>
+
+<table align="center">
+	<tr>
+		<td>
+			<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramyrxr&theme=github_dark" alt="Last year contribution stats" />
+		</td>
+		<td>
+			<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramyrxr&theme=github_dark&utcOffset=5" alt="Productive time" />
+		</td>
+	</tr>
+</table>
+
 
 
 
