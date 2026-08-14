@@ -57,12 +57,8 @@
 - Improving backend structure and API workflows with Laravel.
 - Creating projects that are simple, practical, and user-centered.
 
-## Activity Graph
 
-<p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramyrxr&custom_title=Ramy's%20Contribution%20Graph&bg_color=0B1120&color=E2E8F0&line=38BDF8&point=7DD3FC&area=true&area_color=38BDF8&title_color=E2E8F0&hide_border=true" alt="Activity graph" width="100%" />
-</p>
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamyRxr&theme=github-compact)
 
 
 
