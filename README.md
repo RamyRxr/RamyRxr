@@ -26,8 +26,11 @@
 
 ## About Me
 
-- Frontend-first developer with strong interest in modern UI/UX and performance.
-- Currently learning and building with **React** (frontend) and **Laravel** (backend).
+- Frontend-first developer focused on building clean, intuitive, and high-performance user interfaces.
+- Solid UI/UX knowledge, from designing in **Figma** to turning designs into responsive, accessible products.
+- Growing into full-stack development, building with **React** on the frontend and **Laravel** on the backend.
+- I build real projects that solve real problems, starting from the user's needs and not just the tech.
+- I care about clean, readable, and maintainable code that's easy to scale.
 - Open to collaboration on meaningful projects and products.
 - I only keep doing work that delivers value and that I genuinely enjoy.
 
