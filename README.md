@@ -63,11 +63,8 @@
 ## GitHub Stats
 
 <p align="center">
-	<img src="https://streak-stats.demolab.com/?user=RamyRxr&background=0B1120&border=1E3A5F&stroke=1E3A5F&ring=38BDF8&fire=7DD3FC&currStreakNum=7DD3FC&sideNums=38BDF8&currStreakLabel=7DD3FC&sideLabels=0EA5E9&dates=94A3B8&border_radius=10" alt="GitHub streak" width="100%" />
-</p>
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=RamyRxr&show_icons=true&include_all_commits=true&count_private=true&bg_color=0B1120&title_color=7DD3FC&text_color=94A3B8&icon_color=38BDF8&border_color=1E3A5F&border_radius=10&card_width=500" alt="GitHub stats" width="100%" />
+	<img src="https://streak-stats.demolab.com/?user=RamyRxr&background=0B1120&border=1E3A5F&stroke=1E3A5F&ring=38BDF8&fire=7DD3FC&currStreakNum=7DD3FC&sideNums=38BDF8&currStreakLabel=7DD3FC&sideLabels=0EA5E9&dates=94A3B8&border_radius=10" alt="GitHub streak" height="165" />
+	<img src="https://github-readme-stats.vercel.app/api?username=RamyRxr&show_icons=true&include_all_commits=true&count_private=true&bg_color=0B1120&title_color=7DD3FC&text_color=94A3B8&icon_color=38BDF8&border_color=1E3A5F&border_radius=10" alt="GitHub stats" height="165" />
 </p>
 
 ## Last 12 Months Contributions
