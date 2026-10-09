@@ -60,28 +60,10 @@
 - Improving backend structure and API workflows with Laravel.
 - Creating projects that are simple, practical, and user-centered.
 
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamyRxr&theme=github-compact)
-
-
-
-## Last 12 Months Contributions
+## Contributions
 
 <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramyrxr&theme=github_dark" alt="Contribution timeline" width="100%" />
+	<a href="https://github.com/RamyRxr">
+		<img src="https://ghchart.rshah.org/39d353/RamyRxr" alt="RamyRxr's GitHub contribution calendar" width="100%" />
+	</a>
 </p>
-
-<table align="center">
-	<tr>
-		<td>
-			<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramyrxr&theme=github_dark" alt="Last year contribution stats" />
-		</td>
-		<td>
-			<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramyrxr&theme=github_dark&utcOffset=5" alt="Productive time" />
-		</td>
-	</tr>
-</table>
-
-
-
-
