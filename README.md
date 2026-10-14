@@ -18,10 +18,11 @@
 	</a>
 </p>
 
+
 <p align="center">
-	<a href="https://komarev.com/ghpvc/?username=ramyrxr&label=Profile%20Views&color=38BDF8&style=flat" target="_blank">
-		<img src="https://komarev.com/ghpvc/?username=ramyrxr&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile views" />
-	</a>
+  <a href="https://ramyrxr.github.io/Ramy-Rxr/">
+    <img src="https://img.shields.io/badge/Visit%20my%20portfolio-38BDF8?style=for-the-badge" alt="Visit my portfolio" />
+  </a>
 </p>
 
 ## About Me
